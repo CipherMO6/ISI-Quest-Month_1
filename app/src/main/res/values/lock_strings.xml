@@ -1,0 +1,3 @@
+<resources>
+    <string name="svc_desc">During a study block, sends you back home whenever you open an app other than your chosen study app. It reads only which app is on screen.</string>
+</resources>
